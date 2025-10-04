@@ -33,6 +33,16 @@ body {
     font-weight: bold;
 }
 
+
+
+@media (max-width: 480px) {
+    .colors, .colors2 {
+        padding: 8px 12px;
+        font-size: 12px;
+        text-align: center;
+    }
+}
+
 .controls {
   position: absolute;
   top: 40px;
